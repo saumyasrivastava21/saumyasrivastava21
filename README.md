@@ -1,3 +1,27 @@
+<h1 align="center">Hi 👋, I'm Saumya Srivastava</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Machine+Learning+Engineer;Computer+Vision+Enthusiast;Open+Source+Contributor" />
+</p>
+
+---
+
+## 🚀 Open to Internship Opportunities
+
+<p align="center">
+<img src="https://img.shields.io/badge/Available%20for-Internships-brightgreen?style=for-the-badge"/>
+</p>
+
+---
+
+## 👀 Visitor Counter
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=saumyasrivastava21&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+---
+
 ## 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/wander.engineer_)
@@ -6,83 +30,71 @@
 
 ---
 
-## 💻 Tech Stack
+## 🧠 Research Interests
 
-### 🧠 Languages
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+* Deep Learning Architectures
+* Computer Vision Systems
+* Generative AI
+* Scalable Backend + AI Integration
+* Model Deployment & MLOps
 
 ---
 
-### ⚙️ Backend & APIs
+## ⭐ Featured Projects
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge\&logo=spring\&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=Hibernate\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge\&logo=flask\&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=jsonwebtokens)
-![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-%23F8DC75.svg?style=for-the-badge\&logo=apache-tomcat\&logoColor=black)
+### 🌱 ML Crop Disease Prediction
 
----
+<p>
+<img src="https://via.placeholder.com/600x250.png?text=Crop+Disease+Prediction+Preview"/>
+</p>
 
-### 🎨 Frontend
+### 🧠 Swachh Vision AI
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge\&logo=redux\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+<p>
+<img src="https://via.placeholder.com/600x250.png?text=Swachh+Vision+AI+Preview"/>
+</p>
 
----
+### 🖼️ Image Classification Benchmark Suite
 
-### 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+<p>
+<img src="https://via.placeholder.com/600x250.png?text=CNN+Benchmark+Preview"/>
+</p>
 
 ---
 
-### 🤖 Machine Learning & CV
+## 📄 Resume
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge\&logo=TensorFlow\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge\&logo=PyTorch\&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge\&logo=opencv\&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
-
----
-
-### ☁️ Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge\&logo=google-cloud\&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge\&logo=jenkins\&logoColor=white)
+<p align="center">
+<a href="https://drive.google.com/your-resume-link">
+<img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge"/>
+</a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=saumyasrivastava21\&theme=dark\&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=saumyasrivastava21\&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saumyasrivastava21\&layout=compact\&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=saumyasrivastava21\&theme=tokyonight)
+![](https://nirzak-streak-stats.vercel.app/?user=saumyasrivastava21\&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saumyasrivastava21\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/saumyasrivastava21/saumyasrivastava21/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=saumyasrivastava21\&theme=radical\&no-frame=false)
+![](https://github-profile-trophy.vercel.app/?username=saumyasrivastava21\&theme=radical)
 
 ---
 
-### ✍️ Random Dev Quote
+## ✨ Dev Philosophy
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
+> Building real-world AI systems with scalable engineering mindset 🚀
+
