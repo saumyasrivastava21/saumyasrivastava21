@@ -82,6 +82,7 @@
 
 ## 🐍 Contribution Snake
 
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/saumyasrivastava21/saumyasrivastava21/output/github-contribution-grid-snake.svg"/>
 </p>
@@ -98,7 +99,3 @@
 
 > Building real-world AI systems with scalable engineering mindset 🚀
 
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/saumyasrivastava21/saumyasrivastava21/output/github-contribution-grid-snake.svg"/>
-</p>
