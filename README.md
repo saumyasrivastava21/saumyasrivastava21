@@ -136,14 +136,13 @@ Hi, I'm Saumya — AI Engineer | Computer Vision | LLMs • RAG • LangGraph | 
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=saumyasrivastava21&show_icons=true&theme=tokyonight" height="160"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=saumyasrivastava21&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saumyasrivastava21&show_icons=true&theme=tokyonight&cache_seconds=1800" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=saumyasrivastava21&theme=tokyonight&cache_seconds=1800" height="160"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumyasrivastava21&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumyasrivastava21&layout=compact&theme=tokyonight&cache_seconds=1800" height="160"/>
 </p>
-
 ---
 
 ## 🐍 Contribution Snake
