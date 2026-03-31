@@ -24,7 +24,8 @@ Hi, I'm Saumya — AI Engineer | Computer Vision | LLMs • RAG • LangGraph | 
 ## 🚀 Building AI & backend systems — open to high-impact opportunities
 
 <p align="center">
-<img src="https://img.shields.io/badge/Available%20for-Internships-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Building-AI%20%26%20Backend%20Systems-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20to-High%20Impact%20Opportunities-success?style=for-the-badge"/>
 </p>
 
 ---
@@ -53,7 +54,7 @@ Hi, I'm Saumya — AI Engineer | Computer Vision | LLMs • RAG • LangGraph | 
 
 ## 💼 Experience
 
-### 🧠 AI Research Intern — IIT Hyderabad (OralVis Healthcare Lab)
+### 🧠 AI Research Intern — OralVis Healthcare ( IIT Hyderabad )
 
 📅 Jan 2026 – Present
 
