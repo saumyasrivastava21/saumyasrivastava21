@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0EA5E9,50:7C3AED,100:EC4899&text=Saumya%20Srivastava&fontSize=58&fontAlign=50&fontAlignY=38&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20LLMs%20%7C%20RAG%20%7C%20Java%20Spring%20Boot&descAlign=50&descAlignY=58&fontColor=ffffff&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Production-Ready+AI+Systems;Computer+Vision+%7C+Medical+Imaging+%7C+YOLO;LLMs+%7C+RAG+%7C+LangGraph+%7C+Agentic+AI;Java+Spring+Boot+%7C+FastAPI+%7C+Scalable+Backends" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Production-Ready+AI+Systems;Computer+Vision+%7C+Medical+Imaging+%7C+YOLO;LLMs+%7C+%7C+LangGraph+%7C+Agentic+AI;Java+Spring+Boot+%7C+FastAPI+%7C+Scalable+Backends" alt="Typing SVG" />
 
 <br/>
 
