@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0EA5E9,50:7C3AED,100:EC4899&text=Saumya%20Srivastava&fontSize=58&fontAlign=50&fontAlignY=38&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20LLMs%20%7C%20RAG%20%7C%20Java%20Spring%20Boot&descAlign=50&descAlignY=58&fontColor=ffffff&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Production-Ready+AI+Systems;Computer+Vision+%7C+Medical+Imaging+%7C+YOLO;LLMs+%7C+%7C+LangGraph+%7C+Agentic+AI;Java+Spring+Boot+%7C+FastAPI+%7C+Scalable+Backends" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Production-Ready+AI+Systems;Computer+Vision+%7C+Medical+Imaging+%7C+YOLO;LLMs+%7C+RAG+%7C+LangGraph+%7C+Agentic+AI;Java+Spring+Boot+%7C+FastAPI+%7C+Scalable+Backends" alt="Typing SVG" />
 
 <br/>
 
@@ -26,7 +26,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+## 👋 About Me
 
 ```yaml
 name: Saumya Srivastava
@@ -42,15 +42,15 @@ coding_profile:
   - 500+ DSA problems solved
   - Java-first problem solving
 mission: Build scalable, reliable and production-ready AI systems.
-```
+````
 
 <img align="right" alt="AI Coding" width="390" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🧠 AI Research Intern working on **medical imaging, computer vision and deep learning pipelines**  
-- 🚀 Building **AI agents, RAG systems, scalable APIs and full-stack AI products**  
-- 💻 Strong in **Java, Python, Spring Boot, FastAPI, PyTorch, TensorFlow and Docker**  
-- 🎯 Interested in **AI Engineer, ML Engineer, Computer Vision Engineer and SDE roles**  
-- 🏆 Winner at **ICMR & IIT Kanpur National Federation Hackathon**  
+* 🧠 AI Research Intern working on **medical imaging, computer vision and deep learning pipelines**
+* 🚀 Building **AI agents, RAG systems, scalable APIs and full-stack AI products**
+* 💻 Strong in **Java, Python, Spring Boot, FastAPI, PyTorch, TensorFlow and Docker**
+* 🎯 Interested in **AI Engineer, ML Engineer, Computer Vision Engineer and SDE roles**
+* 🏆 Winner at **ICMR & IIT Kanpur National Federation Hackathon**
 
 <br clear="right"/>
 
@@ -60,12 +60,12 @@ mission: Build scalable, reliable and production-ready AI systems.
 
 <div align="center">
 
-| Focus Area | What I Build | Tools |
-|---|---|---|
-| 🧠 Computer Vision | Detection, classification, ROI pipelines, medical imaging AI | YOLO, OpenCV, PyTorch, TensorFlow |
-| 🤖 Generative AI | LLM apps, RAG pipelines, agent workflows | LangChain, LangGraph, FAISS, LLM APIs |
-| ⚙️ Backend Engineering | APIs, auth, scalable services, deployment-ready systems | Java, Spring Boot, FastAPI, PostgreSQL, Docker |
-| 📊 Model Evaluation | Error analysis, validation curves, mAP/F1/IoU tracking | Python, Pandas, Matplotlib, Ultralytics |
+| Focus Area             | What I Build                                                      | Tools                                          |
+| ---------------------- | ----------------------------------------------------------------- | ---------------------------------------------- |
+| 🧠 Computer Vision     | Detection, classification, ROI pipelines, medical imaging AI      | YOLO, OpenCV, PyTorch, TensorFlow              |
+| 🤖 Generative AI       | LLM apps, RAG pipelines, agent workflows                          | LangChain, LangGraph, FAISS, LLM APIs          |
+| ⚙️ Backend Engineering | APIs, authentication, scalable services, deployment-ready systems | Java, Spring Boot, FastAPI, PostgreSQL, Docker |
+| 📊 Model Evaluation    | Error analysis, validation curves, mAP, F1-score and IoU tracking | Python, Pandas, Matplotlib, Ultralytics        |
 
 </div>
 
@@ -75,17 +75,19 @@ mission: Build scalable, reliable and production-ready AI systems.
 
 <img align="right" width="270" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-### 🧠 AI Research Intern — OralVis Healthcare, IIT Hyderabad  
+### 🧠 AI Research Intern — OralVis Healthcare, IIT Hyderabad
+
 **Jan 2026 – Present**
 
-- Worked on confidential **medical-imaging AI workflows** involving preprocessing, ROI extraction, object detection, deployment and scalable inference.
-- Improved detection pipelines using **YOLO training, annotation refinement, augmentation, class balancing and hyperparameter tuning**.
-- Evaluated models using **Precision, Recall, F1-score, IoU, mAP@50, mAP@50-95, validation curves and failure-case inspection**.
+* Worked on confidential **medical-imaging AI workflows** involving preprocessing, ROI extraction, object detection, deployment and scalable inference.
+* Improved detection pipelines using **YOLO training, annotation refinement, augmentation, class balancing and hyperparameter tuning**.
+* Evaluated models using **Precision, Recall, F1-score, IoU, mAP@50, mAP@50-95, validation curves and failure-case inspection**.
 
-### 🏷️ ML Data Annotator — Mechanica Sistemi  
+### 🏷️ ML Data Annotator — Mechanica Sistemi
+
 **Apr 2026 – May 2026**
 
-- Annotated and refined **10,000+ images** using SAM, segmentation masks, bounding boxes and dataset-quality checks for production CV training.
+* Annotated and refined **10,000+ images** using SAM, segmentation masks, bounding boxes and dataset-quality checks for production computer vision training.
 
 <br clear="right"/>
 
@@ -110,11 +112,12 @@ Agentic AI platform that converts prompts into requirements, frontend pages, bac
 
 YOLO-based road damage detection system with image upload, confidence scoring, annotated-result download and FastAPI inference.
 
-**Tech:** YOLO, FastAPI, OpenCV, React, Vite, Tailwind  
-**Result:** 96%+ detection accuracy on tests
+**Tech:** YOLO, FastAPI, OpenCV, React, Vite, Tailwind
+**Result:** Built and deployed an end-to-end road damage detection pipeline.
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
@@ -122,8 +125,8 @@ YOLO-based road damage detection system with image upload, confidence scoring, a
 
 Agriculture intelligence platform for crop disease classification and yield estimation using deep learning and supervised ML.
 
-**Tech:** PyTorch, CNNs, Transfer Learning, Gradient Boosting, React  
-**Result:** 96%+ accuracy
+**Tech:** PyTorch, CNNs, Transfer Learning, Gradient Boosting, React
+**Result:** Built a crop disease classification and prediction workflow.
 
 </td>
 <td width="50%">
@@ -145,15 +148,19 @@ Computer vision workflows for clinical image preprocessing, ROI extraction, obje
 <div align="center">
 
 ### Languages & Core
+
 <img src="https://skillicons.dev/icons?i=java,python,sql,bash,cpp" />
 
 ### AI / ML / Data
+
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
 
 ### Backend / Cloud / DevOps
+
 <img src="https://skillicons.dev/icons?i=spring,fastapi,docker,kubernetes,aws,postgres,mysql,mongodb,linux,git,github" />
 
 ### Frontend
+
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css,js,ts" />
 
 </div>
@@ -164,14 +171,14 @@ Computer vision workflows for clinical image preprocessing, ROI extraction, obje
 
 <div align="center">
 
-| Category | Skills |
-|---|---|
+| Category            | Skills                                                                    |
+| ------------------- | ------------------------------------------------------------------------- |
 | **Computer Vision** | YOLO, OpenCV, Object Detection, ROI Extraction, Medical Imaging, Grad-CAM |
-| **Deep Learning** | PyTorch, TensorFlow, CNNs, Transfer Learning, Model Evaluation |
-| **Generative AI** | LLM APIs, Prompt Engineering, RAG, Agentic AI, Document Q&A |
-| **RAG & Agents** | LangChain, LangGraph, FAISS, ChromaDB, Vector Search, Tool Calling |
-| **Backend** | Java Spring Boot, FastAPI, REST APIs, Auth, PostgreSQL, Docker |
-| **MLOps Basics** | Training Pipelines, Inference APIs, CI/CD, Cloud Deployment, Monitoring Mindset |
+| **Deep Learning**   | PyTorch, TensorFlow, CNNs, Transfer Learning, Model Evaluation            |
+| **Generative AI**   | LLM APIs, Prompt Engineering, RAG, Agentic AI, Document Q&A               |
+| **RAG & Agents**    | LangChain, LangGraph, FAISS, ChromaDB, Vector Search, Tool Calling        |
+| **Backend**         | Java Spring Boot, FastAPI, REST APIs, Authentication, PostgreSQL, Docker  |
+| **MLOps Basics**    | Training Pipelines, Inference APIs, CI/CD, Cloud Deployment, Monitoring   |
 
 </div>
 
@@ -181,12 +188,12 @@ Computer vision workflows for clinical image preprocessing, ROI extraction, obje
 
 <div align="center">
 
-| Achievement | Highlight |
-|---|---|
-| 🥇 **Winner — ICMR & IIT Kanpur National Federation Hackathon** | Built an AI-driven diabetic retinopathy system selected among 300+ teams |
-| 🧩 **500+ DSA Problems Solved** | Java-first problem solving across Graphs, DP, Trees, Arrays and Strings |
-| 🎓 **CGPA 8.60/10** | B.Tech Information Technology, MMMUT Gorakhpur |
-| 👥 **Student Secretary — CSSE MMMUT** | Led coding contests, AI/ML sessions, workshops and hackathons for 1,000+ participants |
+| Achievement                                                     | Highlight                                                                             |
+| --------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| 🥇 **Winner — ICMR & IIT Kanpur National Federation Hackathon** | Built an AI-driven healthcare solution selected among 300+ teams                      |
+| 🧩 **500+ DSA Problems Solved**                                 | Java-first problem solving across Graphs, DP, Trees, Arrays and Strings               |
+| 🎓 **CGPA 8.60/10**                                             | B.Tech Information Technology, MMMUT Gorakhpur                                        |
+| 👥 **Student Secretary — CSSE MMMUT**                           | Led coding contests, AI/ML sessions, workshops and hackathons for 1,000+ participants |
 
 </div>
 
@@ -253,7 +260,7 @@ E --> F[High-Impact AI/SDE Role]
 
 <div align="center">
 
-I love building at the intersection of **AI, software engineering and real-world products**.  
+I love building at the intersection of **AI, software engineering and real-world products**.
 Open to collaborating on **Computer Vision, LLM Apps, RAG Systems, Agentic AI and Backend Engineering**.
 
 <br/>
