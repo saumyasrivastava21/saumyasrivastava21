@@ -79,7 +79,7 @@ I build AI systems that connect models, retrieval, agents and production infrast
 
 ---
 
-## 🧭 Engineering Philosophy
+## 🧭 Enginering Philosophy
 
 <div align="center">
 
