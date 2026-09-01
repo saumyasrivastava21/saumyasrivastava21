@@ -51,7 +51,7 @@ education:
 current_role:
   title: AI Research Intern
   organization: OralVis Healthcare, IIT Hyderabad
-  domain: Medical Imaging & Computer Vision
+  domain: Medical Imaging & Computer Visions
 
 engineering_focus:
   - Production-ready AI systems
