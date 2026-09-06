@@ -6,7 +6,7 @@
 
 <br/>
 
-**AI Intern – AI Enabled Systems Hybrid @ OralVis Healthcare, IIT Hyderabad** · Lucknow, India
+**AI Intern – AI Enabled Systems Hybrid @ OralVis Healthcare, IIT-Hyderabad** · Lucknow, India
 
 <br/>
 
